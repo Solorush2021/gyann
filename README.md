@@ -70,6 +70,23 @@ Each scene renders with **teacher speech** (TTS), **spotlight** (focus dimming),
 
 ---
 
+## 📷 Screenshots & Demo
+
+### Sample Screens
+
+| Sample 1 | Sample 2 |
+| :---: | :---: |
+| ![Sample 1 Image](https://github.com/Solorush2021/gyann/raw/main/assets/sample1.png) | ![Sample 2 Image](https://github.com/Solorush2021/gyann/raw/main/assets/sample2.png) |
+
+> 💡 *Note: To display your own screenshots, upload your image files as `sample1.png` and `sample2.png` into an `assets` folder at the root of the repository.*
+
+### 🎥 Video Demo
+
+See a live recording of Gyaan running fully locally on the Snapdragon X Elite:
+👉 [Watch the Working Video on Google Drive](https://drive.google.com/your-video-link-here)
+
+---
+
 ## 🧠 The Core IP — Making a 0.8B Smart
 
 Small models forget instructions, mangle JSON, and can't do spatial reasoning. We solved this by **offloading intelligence from the model to deterministic code:**
